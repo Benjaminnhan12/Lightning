@@ -24,7 +24,7 @@ void draw()
     		x++;
 		}
 		fill(255);
-		circle(0,30,100);
+		ellipse(0,0,30,100);
 }
 void mousePressed()
 {
